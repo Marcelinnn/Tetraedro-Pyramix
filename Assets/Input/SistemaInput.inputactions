@@ -1,0 +1,254 @@
+{
+    "name": "SistemaInput",
+    "maps": [
+        {
+            "name": "RotacaoPecas",
+            "id": "43fb45b1-dfd5-401d-bec3-458e0e7fbb7f",
+            "actions": [
+                {
+                    "name": "GirarBaseVermelho",
+                    "type": "Button",
+                    "id": "2beefa59-8212-4190-87e3-4e1c1840d836",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarMeioVermelho",
+                    "type": "Button",
+                    "id": "a84168bd-7fee-4ea1-ae27-8e785d95c80a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarTopoVermelho",
+                    "type": "Button",
+                    "id": "07bbdb4e-7b70-4c7e-8b03-6698f3fa1099",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarBaseAmarelo",
+                    "type": "Button",
+                    "id": "f2116d35-ded1-4d28-8d27-fd7f0e23a09c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarMeioAmarelo",
+                    "type": "Button",
+                    "id": "da7d40a9-1b6f-4aab-8eaf-3309911b7062",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarTopoAmarelo",
+                    "type": "Button",
+                    "id": "e12fd20d-9824-4f84-b99b-5a7fbabf4a0b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarBaseAzul",
+                    "type": "Button",
+                    "id": "2b5c216d-bfd7-4d37-ae97-7c01062706cc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarMeioAzul",
+                    "type": "Button",
+                    "id": "58947c46-612d-4517-be7a-3f6c6b078446",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarTopoAzul",
+                    "type": "Button",
+                    "id": "cb8c4902-4f63-46f7-b9df-a626fcb98375",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarBaseVerde",
+                    "type": "Button",
+                    "id": "3b202c6a-d22d-4c05-9d31-c56f5937f0cd",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarMeioVerde",
+                    "type": "Button",
+                    "id": "d781345a-8ae7-4254-aac6-4f31ac0e91d6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "GirarTopoVerde",
+                    "type": "Button",
+                    "id": "8070221e-cce5-4db4-a463-d76ef66db4e1",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ff9aee39-c023-4a30-99d5-4f72e2d5ac04",
+                    "path": "<Keyboard>/f1",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarBaseVermelho",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6f805469-2985-4395-a729-8320c89aa70f",
+                    "path": "<Keyboard>/f2",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarMeioVermelho",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e788e1d6-b90b-4851-b11e-5a5fd1417d5d",
+                    "path": "<Keyboard>/f5",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarMeioAmarelo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "aa3c4ca3-d108-4171-a63c-6b795c258f58",
+                    "path": "<Keyboard>/f4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarBaseAmarelo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a0c79fd9-c8e9-489f-8f3e-3b4c0cb6f34a",
+                    "path": "<Keyboard>/f7",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarBaseAzul",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "528bd1a9-5df4-478c-a0e5-591f0be9db17",
+                    "path": "<Keyboard>/f10",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarBaseVerde",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "bda4aa5a-aa60-4d1d-b810-d0c1085d6ac4",
+                    "path": "<Keyboard>/f8",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarMeioAzul",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "77c84133-33a8-4094-9b49-dd3cd788f637",
+                    "path": "<Keyboard>/f11",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarMeioVerde",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "27502c2f-d08a-43ec-a5c3-3e333bb72af3",
+                    "path": "<Keyboard>/f12",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarTopoVerde",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a0300d05-fe46-4c2f-b8e7-5e6d3aadebd9",
+                    "path": "<Keyboard>/f3",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarTopoVermelho",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "a0c946b8-faa0-417e-8fdf-414036dd0573",
+                    "path": "<Keyboard>/f9",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarTopoAzul",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3318fb40-1f0a-4c2d-baf8-64c121cb4c96",
+                    "path": "<Keyboard>/f6",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "GirarTopoAmarelo",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
